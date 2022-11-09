@@ -1,4 +1,12 @@
 - 👋 Hi, I’m @osadalakmal
-- 👀 I’m interested in C++/Golang/Kotlin programming, high performance applications, Trading applications, developer experience and systems applications
-- 🌱 I’m currently learning Golang and trying to get myself to learn Rust. 
-- 📫 How to reach me osadalakmal at gmail dot com
+- 👀 I’m interested in 
+    - C++
+    - Golang
+    - Kotlin
+    - Programming Language Theory/Functional/Array Programming
+    - High performance applications
+    - Trading applications
+    - Developer experience
+    - Systems applications (virtualization/system admin/etc)
+- 🌱 I’m currently learning Golang and trying to get myself to learn Rust.
+- 📫 Mail me osadalakmal at gmail dot com
